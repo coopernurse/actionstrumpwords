@@ -1,32 +1,32 @@
 [
-  {
-    "date": "2016-11-15",
-    "action": "Mike Rogers Replaced by Mike Pence as Head of Transition Team",
-    "urls": [
-      "http://www.nytimes.com/2016/11/16/us/politics/trump-transition.html"
-    ],
-    "tags": [
-      "transition"
-    ]
-  },
-  {
-    "date": "2016-11-13",
-    "action": "Reince Priebus Appointed Chief of Staff",
-    "urls": [
-      "http://www.npr.org/sections/thetwo-way/2016/11/13/501937200/trump-taps-reince-priebus-as-chief-of-staff-steve-bannon-as-chief-strategist"
-    ],
-    "tags": [
-      "appointment"
-    ]
-  },
-  {
-    "date": "2016-11-13",
-    "action": "Steve Bannon Appointed Chief Strategist",
-    "urls": [
-      "http://www.npr.org/sections/thetwo-way/2016/11/13/501937200/trump-taps-reince-priebus-as-chief-of-staff-steve-bannon-as-chief-strategist"
-    ],
-    "tags": [
-      "appointment"
-    ]
-  }
+    {
+        "date": "2016-11-15",
+        "action": "Mike Rogers Replaced by Mike Pence as Head of Transition Team",
+        "urls": [
+            "http://www.nytimes.com/2016/11/16/us/politics/trump-transition.html"
+        ],
+        "tags": [
+            "transition"
+        ]
+    },
+    {
+        "date": "2016-11-13",
+        "action": "Reince Priebus Appointed Chief of Staff",
+        "urls": [
+            "http://www.npr.org/sections/thetwo-way/2016/11/13/501937200/trump-taps-reince-priebus-as-chief-of-staff-steve-bannon-as-chief-strategist"
+        ],
+        "tags": [
+            "appointment"
+        ]
+    },
+    {
+        "date": "2016-11-13",
+        "action": "Steve Bannon Appointed Chief Strategist",
+        "urls": [
+            "http://www.npr.org/sections/thetwo-way/2016/11/13/501937200/trump-taps-reince-priebus-as-chief-of-staff-steve-bannon-as-chief-strategist"
+        ],
+        "tags": [
+            "appointment"
+        ]
+    }
 ]
