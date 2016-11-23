@@ -1,9 +1,31 @@
 [
   {
+    "date": "2016-11-23",
+    "action": "Trump nominates South Carolina Governor Nikki Haley to be U.N. ambassador",
+    "urls": [
+      "https://www.washingtonpost.com/politics/trump-nominates-nikki-haley-to-be-un-ambassador/2016/11/23/401f4a7a-b183-11e6-be1c-8cec35b1ad25_story.html",
+      "http://www.nytimes.com/2016/11/23/us/politics/nikki-haley-donald-trump-un-ambassador.html"
+    ],
+    "tags": [
+      "appointment", "diplomacy", "united nations"
+    ]
+  },
+  {
+    "date": "2016-11-23",
+    "action": "Trump nominates conservative activist Betsy DeVos as education secretary",
+    "urls": [
+      "https://www.washingtonpost.com/politics/trump-nominates-nikki-haley-to-be-un-ambassador/2016/11/23/401f4a7a-b183-11e6-be1c-8cec35b1ad25_story.html",
+      "http://www.nytimes.com/2016/11/23/us/politics/donald-trump-president-elect.html"
+    ],
+    "tags": [
+      "appointment", "education"
+    ]
+  },
+  {
     "date": "2016-11-18",
     "action": "Trump Agrees to $25M Settlement in Trump U Civil Lawsuits",
     "urls": [
-      "http://www.npr.org/sections/thetwo-way/2016/11/18/502620122/new-york-attorney-general-says-trump-agrees-to-settle-trump-university-lawsuits",
+      "http://www.npr.org/sections/thetwo-way/2016/11/18/502620122/new-york-attorney-general-says-trump-agrees-to-settle-trump-university-lawsuits"
     ],
     "tags": [
       "trump-business", "legal"
