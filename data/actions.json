@@ -7,7 +7,7 @@
       "http://www.nytimes.com/2016/11/23/us/politics/nikki-haley-donald-trump-un-ambassador.html"
     ],
     "tags": [
-      "appointment", "diplomacy", "united nations"
+      "appointment", "diplomacy", "united-nations"
     ]
   },
   {
@@ -15,7 +15,8 @@
     "action": "Trump nominates conservative activist Betsy DeVos as education secretary",
     "urls": [
       "https://www.washingtonpost.com/politics/trump-nominates-nikki-haley-to-be-un-ambassador/2016/11/23/401f4a7a-b183-11e6-be1c-8cec35b1ad25_story.html",
-      "http://www.nytimes.com/2016/11/23/us/politics/donald-trump-president-elect.html"
+      "http://www.nytimes.com/2016/11/23/us/politics/donald-trump-president-elect.html",
+      "http://www.npr.org/sections/ed/2016/11/23/499642077/trump-chooses-betsy-devos-for-education-secretary"
     ],
     "tags": [
       "appointment", "education"
