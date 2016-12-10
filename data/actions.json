@@ -1,5 +1,26 @@
 [
   {
+    "date": "2016-12-05",
+    "action": "Trump has chosen Dr. Ben Carson to lead the Department of Housing and Urban Development in his incoming administration",
+    "urls": [
+      "http://www.npr.org/2016/12/05/503150852/trump-taps-ben-carson-for-secretary-of-housing-and-urban-development",
+      "https://www.washingtonpost.com/news/powerpost/wp/2016/12/05/trump-to-nominate-carson-to-lead-u-s-housing-urban-policy"
+    ],
+    "tags": [
+      "appointment", "pyramids"
+    ]
+  },
+  {
+    "date": "2016-12-01",
+    "action": "Trump picks retired Marine Gen. James Mattis for secretary of defense",
+    "urls": [
+      "https://www.washingtonpost.com/world/national-security/trump-has-chosen-retired-marine-gen-james-mattis-for-secretary-of-defense/2016/12/01/6c6b3b74-aff9-11e6-be1c-8cec35b1ad25_story.html"
+    ],
+    "tags": [
+      "appointment", "defense"
+    ]
+  },
+  {
     "date": "2016-11-23",
     "action": "Trump nominates South Carolina Governor Nikki Haley to be U.N. ambassador",
     "urls": [
