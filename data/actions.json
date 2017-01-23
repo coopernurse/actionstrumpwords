@@ -1,5 +1,35 @@
 [
   {
+    "date": "2017-12-05",
+    "action": "President Trump signed an executive order blocking U.S. international family-planning assistance to organizations that use other money to discuss or pay for abortions in other countries.",
+    "urls": [
+      "https://www.washingtonpost.com/news/to-your-health/wp/2017/01/23/trump-reverses-abortion-related-policy-to-ban-funding-to-international-health-groups/"
+    ],
+    "tags": [
+      "executive-order", "health", "family-planning", "abortion", "women", "mexico-city-policy", "global-gag-rule"
+    ]
+  },
+  {
+    "date": "2017-12-05",
+    "action": "President Trump signed an executive order establishing a federal hiring freeze.",
+    "urls": [
+      "https://www.washingtonpost.com/powerpost/trump-freezes-hiring-of-federal-workers/2017/01/23/f14d8180-e190-11e6-ba11-63c4b4fb5a63_story.html"
+    ],
+    "tags": [
+      "executive-order", "hiring"
+    ]
+  },
+  {
+    "date": "2017-12-05",
+    "action": "President Trump signed an executive order formally withdrawing the U.S. from the Trans-Pacific Partnership trade deal.",
+    "urls": [
+      "https://www.washingtonpost.com/news/wonk/wp/2017/01/23/president-trump-signs-order-to-withdraw-from-transpacific-partnership/"
+    ],
+    "tags": [
+      "executive-order", "trade"
+    ]
+  },
+  {
     "date": "2016-12-05",
     "action": "Trump has chosen Dr. Ben Carson to lead the Department of Housing and Urban Development in his incoming administration",
     "urls": [
