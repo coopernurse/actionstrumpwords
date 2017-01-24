@@ -1,6 +1,16 @@
 [
   {
-    "date": "2017-12-05",
+    "date": "2017-01-23",
+    "action": "The Trump administration has imposed a freeze on grants and contracts by the U.S. Environmental Protection Agency.",
+    "urls": [
+      "https://www.propublica.org/article/trump-administration-imposes-freeze-on-epa-grants-and-contracts"
+    ],
+    "tags": [
+      "freeze", "epa", "environment"
+    ]
+  },
+  {
+    "date": "2017-01-23",
     "action": "President Trump signed an executive order blocking U.S. international family-planning assistance to organizations that use other money to discuss or pay for abortions in other countries.",
     "urls": [
       "https://www.washingtonpost.com/news/to-your-health/wp/2017/01/23/trump-reverses-abortion-related-policy-to-ban-funding-to-international-health-groups/"
@@ -10,7 +20,7 @@
     ]
   },
   {
-    "date": "2017-12-05",
+    "date": "2017-01-23",
     "action": "President Trump signed an executive order establishing a federal hiring freeze.",
     "urls": [
       "https://www.washingtonpost.com/powerpost/trump-freezes-hiring-of-federal-workers/2017/01/23/f14d8180-e190-11e6-ba11-63c4b4fb5a63_story.html"
@@ -20,7 +30,7 @@
     ]
   },
   {
-    "date": "2017-12-05",
+    "date": "2017-01-23",
     "action": "President Trump signed an executive order formally withdrawing the U.S. from the Trans-Pacific Partnership trade deal.",
     "urls": [
       "https://www.washingtonpost.com/news/wonk/wp/2017/01/23/president-trump-signs-order-to-withdraw-from-transpacific-partnership/"
