@@ -40,6 +40,17 @@
     ]
   },
   {
+    "date": "2017-01-20",
+    "action": "President Trump issued an executive memorandum to the heads of executive departments and agencies ordering a regulatory freeze.",
+    "urls": [
+      "http://www.politico.com/blogs/under-the-radar/2017/01/agencies-give-trump-regulatory-freeze-broad-reach-234149",
+      "http://www.politico.com/f/?id=00000159-be8f-da97-a9dd-becf15ae0001"
+    ],
+    "tags": [
+      "executive-order", "executive-memorandum", "regulations", "freeze"
+    ]
+  },
+  {
     "date": "2016-12-05",
     "action": "Trump has chosen Dr. Ben Carson to lead the Department of Housing and Urban Development in his incoming administration",
     "urls": [
